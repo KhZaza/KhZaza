@@ -52,7 +52,12 @@
       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
       alt="pandas" width="40" height="40" /> </a>  <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"></a>  </p>
+      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"></a> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="vectorlogo.zone" width="40" height="40" />
+      </p>
+
+
+
 
 
 
