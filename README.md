@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+<!--     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -52,7 +52,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
       alt="pandas" width="40" height="40" /> </a>  <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"></a> 
+      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"></a>  -->
       <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="vectorlogo.zone" width="40" height="40" />
       <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="vectorlogo.zone" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="vectorlogo.zone" width="40" height="40" />
@@ -75,6 +75,13 @@
 <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="vectorlogo.zone" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="vectorlogo.zone" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="vectorlogo.zone" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="vectorlogo.zone" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="vectorlogo.zone" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" alt="vectorlogo.zone" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="vectorlogo.zone" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="vectorlogo.zone" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="vectorlogo.zone" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="vectorlogo.zone" width="40" height="40" />
       </p>
 
 
